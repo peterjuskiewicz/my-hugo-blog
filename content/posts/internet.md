@@ -1,6 +1,6 @@
 +++ 
 draft = false
-date = 2025-07-26T13:39:17+02:00
+date = 2019-09-15T13:39:17+02:00
 title = "How does the internet work"
 description = "Brief introduction to the internet"
 slug = ""
