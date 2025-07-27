@@ -199,8 +199,8 @@ title = "juskiewi.cz"
 [languages.ar.params]
 author = "Peter Juskiewicz"
 info = "ديف أوبس الكامل والسحر"
-description = "Sítio pessoal de João Ninguém"
-keywords = "blog,desenvolvedor,pessoal"
+description = "الموقع الشخصي"
+keywords = "مدونة،مطور،شخصي"
 rtl = true
 
 [[languages.ar.menu.main]]
