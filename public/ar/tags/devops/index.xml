@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>DevOps on juskiewi.cz</title>
+    <link>http://localhost:1313/ar/tags/devops/</link>
+    <description>Recent content in DevOps on juskiewi.cz</description>
+    <generator>Hugo</generator>
+    <language>ar</language>
+    <lastBuildDate>Mon, 14 Oct 2019 13:39:17 +0200</lastBuildDate>
+    <atom:link href="http://localhost:1313/ar/tags/devops/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>ما هو اسم النطاق</title>
+      <link>http://localhost:1313/ar/posts/domain-name/</link>
+      <pubDate>Mon, 14 Oct 2019 13:39:17 +0200</pubDate>
+      <guid>http://localhost:1313/ar/posts/domain-name/</guid>
+      <description>&lt;h2 id=&#34;اسم-النطاق&#34;&gt;&#xA;  اسم النطاق&#xA;  &lt;a class=&#34;heading-link&#34; href=&#34;#%d8%a7%d8%b3%d9%85-%d8%a7%d9%84%d9%86%d8%b7%d8%a7%d9%82&#34;&gt;&#xA;    &lt;i class=&#34;fa-solid fa-link&#34; aria-hidden=&#34;true&#34; title=&#34;Link to heading&#34;&gt;&lt;/i&gt;&#xA;    &lt;span class=&#34;sr-only&#34;&gt;Link to heading&lt;/span&gt;&#xA;  &lt;/a&gt;&#xA;&lt;/h2&gt;&#xA;&lt;p&gt;اسم النطاق هو عنوان يمكن للبشر قراءته ويُستخدم لتحديد موقع معين على الإنترنت، مما يجعل الوصول إلى المواقع الإلكترونية والخدمات عبر الإنترنت أسهل. يترجم إلى عنوان IP، وهو معرف رقمي تستخدمه أجهزة الكمبيوتر لتحديد موقع الخوادم والاتصال بها. يتكون اسم النطاق من جزأين رئيسيين: نطاق المستوى الثاني (مثل &amp;ldquo;example&amp;rdquo; في &amp;ldquo;example.com&amp;rdquo;) ونطاق المستوى الأعلى (مثل &amp;ldquo;.com&amp;rdquo;). تُدار أسماء النطاقات من قبل مسجلي أسماء النطاقات وهي ضرورية لإنشاء وجود على الويب، حيث توفر طريقة سهلة الاستخدام للتنقل إلى المواقع الإلكترونية بدلاً من استخدام عناوين IP الرقمية.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>ما هو HTTP</title>
+      <link>http://localhost:1313/ar/posts/http/</link>
+      <pubDate>Mon, 30 Sep 2019 13:39:17 +0200</pubDate>
+      <guid>http://localhost:1313/ar/posts/http/</guid>
+      <description>&lt;h2 id=&#34;http&#34;&gt;&#xA;  HTTP&#xA;  &lt;a class=&#34;heading-link&#34; href=&#34;#http&#34;&gt;&#xA;    &lt;i class=&#34;fa-solid fa-link&#34; aria-hidden=&#34;true&#34; title=&#34;Link to heading&#34;&gt;&lt;/i&gt;&#xA;    &lt;span class=&#34;sr-only&#34;&gt;Link to heading&lt;/span&gt;&#xA;  &lt;/a&gt;&#xA;&lt;/h2&gt;&#xA;&lt;p&gt;HTTP (بروتوكول نقل النص التشعبي) هو بروتوكول يُستخدم لنقل النص التشعبي عبر الشبكة العنكبوتية العالمية. يحدد كيفية تنسيق ونقل الرسائل، وكيف يجب على خوادم الويب والمتصفحات الاستجابة لمختلف الأوامر. يعمل HTTP على نموذج الطلب-الاستجابة: يرسل العميل (عادة متصفح الويب) طلب HTTP إلى الخادم للحصول على الموارد، مثل صفحات الويب أو الملفات، ويستجيب الخادم بالمحتوى المطلوب ورمز حالة HTTP يشير إلى نتيجة الطلب. HTTP عديم الحالة، مما يعني أن كل طلب من العميل إلى الخادم مستقل ولا يحتفظ بمعلومات حول التفاعلات السابقة. يشكل الأساس لتواصل البيانات على الويب ويُستخدم عادة مع HTTP الآمن (HTTPS) للتواصل المشفر.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>كيف يعمل الإنترنت</title>
+      <link>http://localhost:1313/ar/posts/internet/</link>
+      <pubDate>Sun, 15 Sep 2019 13:39:17 +0200</pubDate>
+      <guid>http://localhost:1313/ar/posts/internet/</guid>
+      <description>&lt;h2 id=&#34;الإنترنت&#34;&gt;&#xA;  الإنترنت&#xA;  &lt;a class=&#34;heading-link&#34; href=&#34;#%d8%a7%d9%84%d8%a5%d9%86%d8%aa%d8%b1%d9%86%d8%aa&#34;&gt;&#xA;    &lt;i class=&#34;fa-solid fa-link&#34; aria-hidden=&#34;true&#34; title=&#34;Link to heading&#34;&gt;&lt;/i&gt;&#xA;    &lt;span class=&#34;sr-only&#34;&gt;Link to heading&lt;/span&gt;&#xA;  &lt;/a&gt;&#xA;&lt;/h2&gt;&#xA;&lt;p&gt;الإنترنت هو شبكة عالمية من أجهزة الكمبيوتر المترابطة التي تتواصل باستخدام بروتوكولات موحدة، وبشكل أساسي TCP/IP. عندما تطلب صفحة ويب، يرسل جهازك حزمة بيانات عبر مزود خدمة الإنترنت (ISP) إلى خادم DNS، والذي يترجم اسم النطاق للموقع إلى عنوان IP. ثم يتم توجيه الحزمة عبر شبكات مختلفة (باستخدام أجهزة التوجيه والمحولات) إلى الخادم المقصود، والذي يعالج الطلب ويرسل الاستجابة. هذا التبادل ذهاباً وإياباً يمكّن من نقل البيانات مثل صفحات الويب ورسائل البريد الإلكتروني والملفات، مما يجعل الإنترنت نظاماً ديناميكياً لامركزياً للتواصل العالمي.&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>

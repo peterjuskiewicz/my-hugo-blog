@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Tags on juskiewi.cz</title>
+    <link>http://localhost:1313/ar/tags/</link>
+    <description>Recent content in Tags on juskiewi.cz</description>
+    <generator>Hugo</generator>
+    <language>ar</language>
+    <lastBuildDate>Mon, 14 Oct 2019 13:39:17 +0200</lastBuildDate>
+    <atom:link href="http://localhost:1313/ar/tags/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>DevOps</title>
+      <link>http://localhost:1313/ar/tags/devops/</link>
+      <pubDate>Mon, 14 Oct 2019 13:39:17 +0200</pubDate>
+      <guid>http://localhost:1313/ar/tags/devops/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>الواجهات الأمامية</title>
+      <link>http://localhost:1313/ar/tags/%D8%A7%D9%84%D9%88%D8%A7%D8%AC%D9%87%D8%A7%D8%AA-%D8%A7%D9%84%D8%A3%D9%85%D8%A7%D9%85%D9%8A%D8%A9/</link>
+      <pubDate>Mon, 14 Oct 2019 13:39:17 +0200</pubDate>
+      <guid>http://localhost:1313/ar/tags/%D8%A7%D9%84%D9%88%D8%A7%D8%AC%D9%87%D8%A7%D8%AA-%D8%A7%D9%84%D8%A3%D9%85%D8%A7%D9%85%D9%8A%D8%A9/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>الواجهات الخلفية</title>
+      <link>http://localhost:1313/ar/tags/%D8%A7%D9%84%D9%88%D8%A7%D8%AC%D9%87%D8%A7%D8%AA-%D8%A7%D9%84%D8%AE%D9%84%D9%81%D9%8A%D8%A9/</link>
+      <pubDate>Mon, 14 Oct 2019 13:39:17 +0200</pubDate>
+      <guid>http://localhost:1313/ar/tags/%D8%A7%D9%84%D9%88%D8%A7%D8%AC%D9%87%D8%A7%D8%AA-%D8%A7%D9%84%D8%AE%D9%84%D9%81%D9%8A%D8%A9/</guid>
+      <description></description>
+    </item>
+  </channel>
+</rss>

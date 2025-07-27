@@ -161,12 +161,6 @@ weight = 4
 url = "https://www.linkedin.com/in/piotr-juskiewicz/"
 
 
-[[params.social]]
-name = "OnlyFans"
-icon = "fa-brands fa-gofore fa-2x"
-weight = 4
-url = "https://www.linkedin.com/in/piotr-juskiewicz/"
-
 # [[params.social]]
 # name = "RSS"
 # icon = "fa-solid fa-rss fa-2x"
@@ -176,7 +170,7 @@ url = "https://www.linkedin.com/in/piotr-juskiewicz/"
 # type = "application/rss+xml"
 
 [languages.en]
-languageName = ":uk:"
+languageName = "English"
 
 [[languages.en.menu.main]]
 name = "About"
@@ -198,32 +192,33 @@ name = "Contact me"
 weight = 5
 url = "contact/"
 
-# [languages.pt-br]
-# languageName = ":brazil:"
-# title = "João Ninguém"
+[languages.ar]
+languageName = "عربي"
+title = "juskiewi.cz"
 
-# [languages.pt-br.params]
-# author = "João Ninguém"
-# info = "Full Stack DevOps e Mágico"
-# description = "Sítio pessoal de João Ninguém"
-# keywords = "blog,desenvolvedor,pessoal"
+[languages.ar.params]
+author = "Peter Juskiewicz"
+info = "ديف أوبس الكامل والسحر"
+description = "Sítio pessoal de João Ninguém"
+keywords = "blog,desenvolvedor,pessoal"
+rtl = true
 
-# [[languages.pt-br.menu.main]]
-# name = "Sobre"
-# weight = 1
-# url = "about/"
+[[languages.ar.menu.main]]
+name = "عن"
+weight = 1
+url = "about/"
 
-# [[languages.pt-br.menu.main]]
-# name = "Blog"
-# weight = 2
-# url = "posts/"
+[[languages.ar.menu.main]]
+name = "مدونة"
+weight = 2
+url = "posts/"
 
-# [[languages.pt-br.menu.main]]
+# [[languages.ar.menu.main]]
 # name = "Projetos"
 # weight = 3
 # url = "projects/"
 
-# [[languages.pt-br.menu.main]]
-# name = "Contato"
-# weight = 5
-# url = "contact/"
+[[languages.ar.menu.main]]
+name = "اتصال"
+weight = 5
+url = "contact/"

@@ -6,12 +6,26 @@
     <description>Recent content in Backend on juskiewi.cz</description>
     <generator>Hugo</generator>
     <language>en</language>
-    <lastBuildDate>Sat, 26 Jul 2025 13:39:17 +0200</lastBuildDate>
+    <lastBuildDate>Mon, 14 Oct 2019 13:39:17 +0200</lastBuildDate>
     <atom:link href="http://localhost:1313/tags/backend/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>What is Domain Name</title>
+      <link>http://localhost:1313/posts/domain-name/</link>
+      <pubDate>Mon, 14 Oct 2019 13:39:17 +0200</pubDate>
+      <guid>http://localhost:1313/posts/domain-name/</guid>
+      <description>&lt;h2 id=&#34;domain-name&#34;&gt;&#xA;  Domain Name&#xA;  &lt;a class=&#34;heading-link&#34; href=&#34;#domain-name&#34;&gt;&#xA;    &lt;i class=&#34;fa-solid fa-link&#34; aria-hidden=&#34;true&#34; title=&#34;Link to heading&#34;&gt;&lt;/i&gt;&#xA;    &lt;span class=&#34;sr-only&#34;&gt;Link to heading&lt;/span&gt;&#xA;  &lt;/a&gt;&#xA;&lt;/h2&gt;&#xA;&lt;p&gt;A domain name is a human-readable address used to identify a specific location on the internet, making it easier to access websites and online services. It translates to an IP address, which is a numerical identifier used by computers to locate and connect to servers. A domain name consists of two main parts: the second-level domain (e.g., &amp;ldquo;example&amp;rdquo; in &amp;ldquo;example.com&amp;rdquo;) and the top-level domain (e.g., &amp;ldquo;.com&amp;rdquo;). Domain names are managed by domain name registrars and are essential for establishing a web presence, providing a user-friendly way to navigate to websites instead of using numeric IP addresses.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>What is HTTP</title>
+      <link>http://localhost:1313/posts/http/</link>
+      <pubDate>Mon, 30 Sep 2019 13:39:17 +0200</pubDate>
+      <guid>http://localhost:1313/posts/http/</guid>
+      <description>&lt;h2 id=&#34;http&#34;&gt;&#xA;  HTTP&#xA;  &lt;a class=&#34;heading-link&#34; href=&#34;#http&#34;&gt;&#xA;    &lt;i class=&#34;fa-solid fa-link&#34; aria-hidden=&#34;true&#34; title=&#34;Link to heading&#34;&gt;&lt;/i&gt;&#xA;    &lt;span class=&#34;sr-only&#34;&gt;Link to heading&lt;/span&gt;&#xA;  &lt;/a&gt;&#xA;&lt;/h2&gt;&#xA;&lt;p&gt;HTTP (Hypertext Transfer Protocol) is a protocol used for transmitting hypertext via the World Wide Web. It defines how messages are formatted and transmitted, and how web servers and browsers should respond to various commands. HTTP operates on a request-response model: a client (usually a web browser) sends an HTTP request to a server for resources, such as web pages or files, and the server responds with the requested content and an HTTP status code indicating the result of the request. HTTP is stateless, meaning each request from a client to a server is independent and does not retain information about previous interactions. It forms the foundation of data communication on the web and is typically used with secure HTTP (HTTPS) for encrypted communication.&lt;/p&gt;</description>
+    </item>
     <item>
       <title>How does the internet work</title>
       <link>http://localhost:1313/posts/internet/</link>
-      <pubDate>Sat, 26 Jul 2025 13:39:17 +0200</pubDate>
+      <pubDate>Sun, 15 Sep 2019 13:39:17 +0200</pubDate>
       <guid>http://localhost:1313/posts/internet/</guid>
       <description>&lt;h2 id=&#34;internet&#34;&gt;&#xA;  Internet&#xA;  &lt;a class=&#34;heading-link&#34; href=&#34;#internet&#34;&gt;&#xA;    &lt;i class=&#34;fa-solid fa-link&#34; aria-hidden=&#34;true&#34; title=&#34;Link to heading&#34;&gt;&lt;/i&gt;&#xA;    &lt;span class=&#34;sr-only&#34;&gt;Link to heading&lt;/span&gt;&#xA;  &lt;/a&gt;&#xA;&lt;/h2&gt;&#xA;&lt;p&gt;The internet is a global network of interconnected computers that communicate using standardized protocols, primarily TCP/IP. When you request a webpage, your device sends a data packet through your internet service provider (ISP) to a DNS server, which translates the website&amp;rsquo;s domain name into an IP address. The packet is then routed across various networks (using routers and switches) to the destination server, which processes the request and sends back the response. This back-and-forth exchange enables the transfer of data like web pages, emails, and files, making the internet a dynamic, decentralized system for global communication.&lt;/p&gt;</description>
     </item>
