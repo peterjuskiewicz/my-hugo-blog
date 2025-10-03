@@ -3,7 +3,7 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
     <loc>http://localhost:1313/ar/authors/</loc>
-    <lastmod>2019-10-14T13:39:17+02:00</lastmod>
+    <lastmod>2019-10-21T13:39:17+02:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
@@ -16,7 +16,7 @@
                 />
   </url><url>
     <loc>http://localhost:1313/ar/tags/devops/</loc>
-    <lastmod>2019-10-14T13:39:17+02:00</lastmod>
+    <lastmod>2019-10-21T13:39:17+02:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
@@ -29,7 +29,7 @@
                 />
   </url><url>
     <loc>http://localhost:1313/ar/</loc>
-    <lastmod>2019-10-14T13:39:17+02:00</lastmod>
+    <lastmod>2019-10-21T13:39:17+02:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
@@ -42,7 +42,7 @@
                 />
   </url><url>
     <loc>http://localhost:1313/ar/posts/</loc>
-    <lastmod>2019-10-14T13:39:17+02:00</lastmod>
+    <lastmod>2019-10-21T13:39:17+02:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
@@ -55,7 +55,7 @@
                 />
   </url><url>
     <loc>http://localhost:1313/ar/tags/</loc>
-    <lastmod>2019-10-14T13:39:17+02:00</lastmod>
+    <lastmod>2019-10-21T13:39:17+02:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
@@ -67,14 +67,27 @@
                 href="http://localhost:1313/ar/tags/"
                 />
   </url><url>
+    <loc>http://localhost:1313/ar/posts/hosting/</loc>
+    <lastmod>2019-10-21T13:39:17+02:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="http://localhost:1313/posts/hosting/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="ar"
+                href="http://localhost:1313/ar/posts/hosting/"
+                />
+  </url><url>
     <loc>http://localhost:1313/ar/tags/%D8%A7%D9%84%D9%88%D8%A7%D8%AC%D9%87%D8%A7%D8%AA-%D8%A7%D9%84%D8%A3%D9%85%D8%A7%D9%85%D9%8A%D8%A9/</loc>
-    <lastmod>2019-10-14T13:39:17+02:00</lastmod>
+    <lastmod>2019-10-21T13:39:17+02:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/ar/tags/%D8%A7%D9%84%D9%88%D8%A7%D8%AC%D9%87%D8%A7%D8%AA-%D8%A7%D9%84%D8%AE%D9%84%D9%81%D9%8A%D8%A9/</loc>
-    <lastmod>2019-10-14T13:39:17+02:00</lastmod>
+    <lastmod>2019-10-21T13:39:17+02:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/ar/authors/%D8%A8%D9%8A%D8%AA%D8%B1-%D9%8A%D9%88%D8%B3%D9%83%D9%8A%D9%81%D9%8A%D8%AA%D8%B4/</loc>
-    <lastmod>2019-10-14T13:39:17+02:00</lastmod>
+    <lastmod>2019-10-21T13:39:17+02:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/ar/posts/domain-name/</loc>
     <lastmod>2019-10-14T13:39:17+02:00</lastmod>

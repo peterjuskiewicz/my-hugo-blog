@@ -6,8 +6,15 @@
     <description>Recent content in DevOps on juskiewi.cz</description>
     <generator>Hugo</generator>
     <language>ar</language>
-    <lastBuildDate>Mon, 14 Oct 2019 13:39:17 +0200</lastBuildDate>
+    <lastBuildDate>Mon, 21 Oct 2019 13:39:17 +0200</lastBuildDate>
     <atom:link href="http://localhost:1313/ar/tags/devops/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>استضافة</title>
+      <link>http://localhost:1313/ar/posts/hosting/</link>
+      <pubDate>Mon, 21 Oct 2019 13:39:17 +0200</pubDate>
+      <guid>http://localhost:1313/ar/posts/hosting/</guid>
+      <description>&lt;p&gt;##استضافة الويب&lt;/p&gt;&#xA;&lt;p&gt;تُخزّن استضافة الويب ملفات مواقع الويب على خوادم، مما يُتيح الوصول إليها عبر الإنترنت. تشمل أنواع الاستضافة الاستضافة المشتركة (مواقع متعددة لكل خادم) والاستضافة المخصصة (خادم حصري). يُقدّم مُزوّدو الخدمة خدمات إضافية مثل البريد الإلكتروني والنطاقات وشهادات الأمان. تُعدّ هذه الخدمات بالغة الأهمية لأداء مواقع الويب وإمكانية الوصول إليها.&lt;/p&gt;&#xA;&lt;p&gt;قم بزيارة الموارد التالية لمعرفة المزيد:&#xA;&lt;a href=&#34;https://developer.mozilla.org/en-US/docs/Learn_web_development/Howto/Web_mechanics/What_is_a_domain_name&#34;  class=&#34;external-link&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;ما هو استضافة الويب؟&lt;/a&gt;&#xA;&lt;a href=&#34;https://developer.mozilla.org/en-US/docs/Learn_web_development/Howto/Web_mechanics/What_is_a_domain_name&#34;  class=&#34;external-link&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;شرح أنواع استضافة الويب المختلفة&lt;/a&gt;&#xA;&lt;a href=&#34;https://developer.mozilla.org/en-US/docs/Learn_web_development/Howto/Web_mechanics/What_is_a_domain_name&#34;  class=&#34;external-link&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;أين تستضيف مشروع بميزانية محدودة&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
     <item>
       <title>ما هو اسم النطاق</title>
       <link>http://localhost:1313/ar/posts/domain-name/</link>

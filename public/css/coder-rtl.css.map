@@ -1,7 +1,7 @@
 {
 	"version": 3,
 	"file": "coder-rtl.css",
-	"sourceRoot": "/Users/piotrjuskiewicz/Projects/dev/personal-blog",
+	"sourceRoot": "/Users/piotrjuskiewicz/Projects/dev/juskiewi.cz",
 	"sources": [
 		"themes/hugo-coder/assets/scss/coder-rtl.scss",
 		"themes/hugo-coder/assets/scss/_variables.scss",
