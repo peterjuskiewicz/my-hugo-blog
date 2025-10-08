@@ -1,6 +1,6 @@
 +++
 draft = false
-date = 2019-10-21T13:39:17+02:00
+date = 2019-10-28T13:39:17+02:00
 title = "DNS"
 description = "ما هو نظام اسم النطاق"
 slug = ""
