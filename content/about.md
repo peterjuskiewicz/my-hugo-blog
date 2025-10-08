@@ -1,14 +1,14 @@
 +++
 title = "Resume"
-description = "Hugo, the world's fastest framework for building websites"
+description = "Peter's Resume"
 date = "2019-02-28"
 aliases = ["about-us", "about-hugo", "contact"]
-author = "Hugo Authors"
+author = "Peter Juskiewicz"
 +++
 
 **Full Stack Developer | React Specialist | Available for Contract**
 
-**British National | Immediately Available for UK Contracts**
+**British National | Immediately Available for Contracts**
 
 ---
 
