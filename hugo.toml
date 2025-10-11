@@ -187,38 +187,69 @@ url = "posts/"
 # weight = 3
 # url = "projects/"
 
-[[languages.en.menu.main]]
-name = "Contact me"
-weight = 5
-url = "contact/"
+# [[languages.en.menu.main]]
+# name = "Contact me"
+# weight = 5
+# url = "contact/"
 
-[languages.ar]
-languageName = "عربي"
-title = "juskiewi.cz"
+# [languages.ar]
+# languageName = "عربي"
+# title = "juskiewi.cz"
 
-[languages.ar.params]
-author = "Peter Juskiewicz"
-info = "ديف أوبس الكامل والسحر"
-description = "الموقع الشخصي"
-keywords = "مدونة،مطور،شخصي"
-rtl = true
+# [languages.ar.params]
+# author = "Peter Juskiewicz"
+# info = "ديف أوبس الكامل والسحر"
+# description = "الموقع الشخصي"
+# keywords = "مدونة،مطور،شخصي"
+# rtl = true
 
-[[languages.ar.menu.main]]
-name = "عن"
-weight = 1
-url = "about/"
+# [[languages.ar.menu.main]]
+# name = "عن"
+# weight = 1
+# url = "about/"
 
-[[languages.ar.menu.main]]
-name = "مدونة"
-weight = 2
-url = "posts/"
+# [[languages.ar.menu.main]]
+# name = "مدونة"
+# weight = 2
+# url = "posts/"
 
 # [[languages.ar.menu.main]]
 # name = "Projetos"
 # weight = 3
 # url = "projects/"
 
-[[languages.ar.menu.main]]
-name = "اتصال"
+# [[languages.ar.menu.main]]
+# name = "اتصال"
+# weight = 5
+# url = "contact/"
+
+[languages.he]
+languageName = "עברית"
+title = "juskiewi.cz"
+
+[languages.he.params]
+author = "Peter Juskiewicz"
+info = "דב־אופס מלא וקסום"
+description = "האתר האישי"
+keywords = "בלוג, מפתח, אישי"
+rtl = true
+
+[[languages.he.menu.main]]
+name = "אודות"
+weight = 1
+url = "about/"
+
+[[languages.he.menu.main]]
+name = "בלוג"
+weight = 2
+url = "posts/"
+
+# [[languages.he.menu.main]]
+# name = "פרויקטים"
+# weight = 3
+# url = "projects/"
+
+[[languages.he.menu.main]]
+name = "צור קשר"
 weight = 5
 url = "contact/"
