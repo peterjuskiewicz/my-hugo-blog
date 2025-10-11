@@ -2,7 +2,7 @@
 draft = false
 date = 2019-11-26T13:39:17+02:00
 title = "جافا سكريبت"
-description = "JavaScript"
+description = "جافا سكريبت"
 slug = ""
 authors = ["بيتر يوسكيفيتش"]
 tags = ["الواجهة الأمامية"]
