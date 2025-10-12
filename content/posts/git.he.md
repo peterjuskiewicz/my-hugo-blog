@@ -1,6 +1,6 @@
 +++
 draft = false
-date = 2019-10-14T13:39:17+02:00
+date = 2019-12-09T13:39:17+02:00
 title = "Git"
 description = "Git"
 slug = ""
