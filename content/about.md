@@ -2,13 +2,13 @@
 title = "Resume"
 description = "Peter's Resume"
 date = "2019-02-28"
-aliases = ["about-us", "about-hugo", "contact"]
+aliases = ["about-us", "contact"]
 author = "Peter Juskiewicz"
 +++
 
-**Full Stack Developer | React Specialist | Available for Contract**
+**Full Stack Developer | React Specialist**
 
-**British National | Immediately Available for Contracts**
+**Immediately Available for Contracts**
 
 ---
 
@@ -119,9 +119,9 @@ _Inchinnan, Scotland_
 - **British Computer Society** (BCS) Member
 - **Interaction Design Foundation** Member
 
-**Availability:** Immediately available for UK contract roles  
-**Security Clearance:** Eligible for UK security clearance  
-**Work Authorization:** British National - No visa sponsorship required
+**Availability:** Immediately available
+**Security Clearance:** Eligible for security clearance  
+**Work Authorization:** British National | Polish National
 
 **Personal Interests:** Theatre, Psychology Literature, Fitness, Hiking, International Travel
 
