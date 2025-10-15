@@ -14,7 +14,7 @@ author = "Peter Juskiewicz"
 
 ## PROFESSIONAL SUMMARY
 
-**Experienced Frontend Developer** with **5+ years** building scalable web applications using **React, TypeScript, and modern JavaScript frameworks**. Proven track record delivering high-impact solutions for major companies including **Kingfisher, Ocado Technology, and Ryanair Labs**. Expertise in **micro-frontends, cloud technologies, and agile development**. Seeking challenging contract opportunities in the UK to leverage technical expertise in dynamic environments.
+**Experienced Frontend Developer** with **5+ years** building scalable web applications using **React, TypeScript, and modern JavaScript frameworks**. Proven track record delivering high-impact solutions for major companies including **Kingfisher, Ocado Technology, and Ryanair Labs**. Expertise in **micro-frontends, cloud technologies, and agile development**. Seeking challenging contract opportunities to leverage technical expertise in dynamic environments.
 
 **Key Achievements:**
 
