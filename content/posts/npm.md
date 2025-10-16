@@ -11,7 +11,7 @@ externalLink = ""
 series = []
 +++
 
-## Package Managers
+## npm
 
 npm (Node Package Manager) is the primary JavaScript package manager for finding, sharing, and managing code dependencies. Uses package.json to track project requirements and enables consistent builds across environments. Remains the most popular choice despite alternatives like Yarn and pnpm.
 
