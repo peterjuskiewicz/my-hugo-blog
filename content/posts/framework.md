@@ -1,6 +1,6 @@
 +++ 
 draft = false
-date = 2020-02-12T13:39:17+02:00
+date = 2020-02-19T13:39:17+02:00
 title = "Learn a Framework"
 description = "Learn a Framework"
 slug = ""
