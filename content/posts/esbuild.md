@@ -13,7 +13,7 @@ series = []
 
 ## esbuild
 
-esbuild is an extremely fast JavaScript bundler and minifier written in Go. Handles modern JavaScript, TypeScript, and JSX with near-instant bundling. Simple API with excellent performance for development and as foundation for other tools. Trades some advanced features for speed.s
+esbuild is an extremely fast JavaScript bundler and minifier written in Go. Handles modern JavaScript, TypeScript, and JSX with near-instant bundling. Simple API with excellent performance for development and as foundation for other tools. Trades some advanced features for speed.
 
 Visit the following resources to learn more:
 
