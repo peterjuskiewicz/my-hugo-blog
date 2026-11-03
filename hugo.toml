@@ -22,11 +22,11 @@ noClasses = false
 unsafe = true
 
 [params]
-author = "Jaggielonian University Jewish Studie"
+author = "Jaggielonian University Jewish Studies"
 # license = '<a rel="license" href="http://creativecommons.org/licenses/by-sa/4.0/">CC BY-SA-4.0</a>'
 description = "UJ Jewish Studies"
 keywords = "hebrew"
-info = ["Hebrew Class", "2026"]
+info = ["Hebrew Class"]
 avatarURL = "images/avatar.png"
 #gravatar = "john.doe@example.com"
 dateFormat = "January 2, 2006"
@@ -141,24 +141,24 @@ series = "series"
 tag = "tags"
 author = "authors"
 
-[[params.social]]
-name = "Github"
-icon = "fa-brands fa-github fa-2x"
-weight = 1
-url = "https://github.com/peterjuskiewicz/"
+# [[params.social]]
+# name = "Github"
+# icon = "fa-brands fa-github fa-2x"
+# weight = 1
+# url = "https://github.com/peterjuskiewicz/"
 
 
-[[params.social]]
-name = "X"
-icon = "fa-brands fa-x-twitter fa-2x"
-weight = 3
-url = "https://x.com/peterjuskiewicz"
+# [[params.social]]
+# name = "X"
+# icon = "fa-brands fa-x-twitter fa-2x"
+# weight = 3
+# url = "https://x.com/peterjuskiewicz"
 
-[[params.social]]
-name = "LinkedIn"
-icon = "fa-brands fa-linkedin fa-2x"
-weight = 4
-url = "https://www.linkedin.com/in/piotr-juskiewicz/"
+# [[params.social]]
+# name = "LinkedIn"
+# icon = "fa-brands fa-linkedin fa-2x"
+# weight = 4
+# url = "https://www.linkedin.com/in/piotr-juskiewicz/"
 
 
 # [[params.social]]
@@ -172,10 +172,10 @@ url = "https://www.linkedin.com/in/piotr-juskiewicz/"
 [languages.en]
 languageName = "English"
 
-[[languages.en.menu.main]]
-name = "About"
-weight = 1
-url = "about/"
+# [[languages.en.menu.main]]
+# name = "About"
+# weight = 1
+# url = "about/"
 
 [[languages.en.menu.main]]
 name = "Blog"
@@ -187,10 +187,10 @@ url = "posts/"
 # weight = 3
 # url = "projects/"
 
-[[languages.en.menu.main]]
-name = "Contact me"
-weight = 5
-url = "contact/"
+# [[languages.en.menu.main]]
+# name = "Contact me"
+# weight = 5
+# url = "contact/"
 
 # [languages.ar]
 # languageName = "عربي"
@@ -228,16 +228,15 @@ languageName = "עברית"
 title = "juskiewi.cz"
 
 [languages.he.params]
-author = "Peter Juskiewicz"
-info = "דב־אופס מלא וקסום"
-description = "האתר האישי"
-keywords = "בלוג, מפתח, אישי"
+author = "לימודי יהדות באוניברסיטה היגלונית"
+info = "שיעור עברית"
+description = "לימודי יהדות – האוניברסיטה היגלונית"
 rtl = true
 
-[[languages.he.menu.main]]
-name = "אודות"
-weight = 1
-url = "about/"
+# [[languages.he.menu.main]]
+# name = "אודות"
+# weight = 1
+# url = "about/"
 
 [[languages.he.menu.main]]
 name = "בלוג"
@@ -249,7 +248,7 @@ url = "posts/"
 # weight = 3
 # url = "projects/"
 
-[[languages.he.menu.main]]
-name = "צור קשר"
-weight = 5
-url = "contact/"
+# [[languages.he.menu.main]]
+# name = "צור קשר"
+# weight = 5
+# url = "contact/"
