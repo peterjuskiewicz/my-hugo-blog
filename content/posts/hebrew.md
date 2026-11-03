@@ -1,29 +1,32 @@
 +++
 draft = false
 date = 2026-11-03T13:39:17+02:00
-title = "Hebrew Language Study Guide"
-description = "Comprehensive tables for Hebrew verb conjugations and general vocabulary"
-slug = "hebrew-study-guide"
+title = "Hebrew Verbs & Vocabulary Guide"
+description = "Hebrew verb conjugations by gender and number, alongside essential vocabulary."
+slug = "hebrew-verbs-vocabulary"
 authors = ["Peter Juskiewicz"]
-tags = ["Hebrew", "Languages", "Vocabulary", "Grammar"]
+tags = ["Hebrew", "Languages", "Grammar", "Vocabulary"]
 categories = ["Language Learning"]
 externalLink = ""
 series = ["Language Study"]
 +++
 
-## Verb Conjugations
+## Verbs (Present Tense Forms)
 
-| Infinitive     | Root (שֹׁרֶשׁ) | Present (הוֹוֶה)    | Past (עָבַר) | Future (עָתִיד) | Transliteration | English      |
-| :------------- | :------------- | :------------------ | :----------- | :-------------- | :-------------- | :----------- |
-| **לִכְתֹּב**   | כ-ת-ב          | כּוֹתֵב / כּוֹתֶבֶת | כָּתַב       | יִכְתֹּב        | Lichtov         | To write     |
-| **לֶאֱכֹל**    | א-כ-ל          | אוֹכֵל / אוֹכֶלֶת   | אָכַל        | יֹאכַל          | Le'echol        | To eat       |
-| **לִשְׁתּוֹת** | שׁ-ת-ה         | שׁוֹתֶה / שׁוֹתָה   | שָׁתָה       | יִשְׁתֶּה       | Lishtot         | To drink     |
-| **לַעֲבֹד**    | ע-ב-ד          | עוֹבֵד / עוֹבֶדֶת   | עָבַד        | יַעֲבֹד         | La'avod         | To work      |
-| **לָלֶכֶת**    | ה-ל-כ          | הוֹלֵךְ / הוֹלֶכֶת  | הָלַךְ       | יֵלֵךְ          | Lalechet        | To go / walk |
+| Infinitive                 | Meaning          | Masculine Sing. (זָכָר יָחִיד) | Feminine Sing. (נְקֵבָה יְחִידָה) | Masculine Plur. (זָכָר רַבִּים)   | Feminine Plur. (נְקֵבָה רַבּוֹת)  |
+| :------------------------- | :--------------- | :----------------------------- | :-------------------------------- | :-------------------------------- | :-------------------------------- |
+| **לִכְתֹּב** _(Lichtov)_   | To write         | **כּוֹתֵב** <br> _(Kotev)_     | **כּוֹתֶבֶת** <br> _(Kotevet)_    | **כּוֹתְבִים** <br> _(Kotvim)_    | **כּוֹתְבוֹת** <br> _(Kotvot)_    |
+| **לֶאֱכֹל** _(Le'echol)_   | To eat           | **אוֹכֵל** <br> _(Ochel)_      | **אוֹכֶלֶת** <br> _(Ochelet)_     | **אוֹכְלִים** <br> _(Ochlim)_     | **אוֹכְלוֹת** <br> _(Ochlot)_     |
+| **לִשְׁתּוֹת** _(Lishtot)_ | To drink         | **שׁוֹתֶה** <br> _(Shoteh)_    | **שׁוֹתָה** <br> _(Shotah)_       | **שׁוֹתִים** <br> _(Shotim)_      | **שׁוֹתוֹת** <br> _(Shotot)_      |
+| **לַעֲבֹד** _(La'avod)_    | To work          | **עוֹבֵד** <br> _(Oved)_       | **עוֹבֶדֶת** <br> _(Ovedet)_      | **עוֹבְדִים** <br> _(Ovdim)_      | **עוֹבְדוֹת** <br> _(Ovdot)_      |
+| **לָלֶכֶת** _(Lalechet)_   | To go / walk     | **הוֹלֵךְ** <br> _(Holech)_    | **הוֹלֶכֶת** <br> _(Holechet)_    | **הוֹלְכִים** <br> _(Holchim)_    | **הוֹלְכוֹת** <br> _(Holchot)_    |
+| **לִלְמֹד** _(Lilmod)_     | To learn / study | **לוֹמֵד** <br> _(Lomed)_      | **לוֹמֶדֶת** <br> _(Lomedet)_     | **לוֹמְדִים** <br> _(Lomdim)_     | **לוֹמְדוֹת** <br> _(Lomdot)_     |
+| **לַעֲשׂוֹת** _(La'asot)_  | To do / make     | **עוֹשֶׂה** <br> _(Oseh)_      | **עוֹשָׂה** <br> _(Osah)_         | **עוֹשִׂים** <br> _(Osim)_        | **עוֹשׂוֹת** <br> _(Osot)_        |
+| **לְדַבֵּר** _(Ledaber)_   | To speak         | **מְדַבֵּר** <br> _(Medaber)_  | **מְדַבֶּרֶת** <br> _(Medaberet)_ | **מְדַבְּרִים** <br> _(Medabrim)_ | **מְדַבְּרוֹת** <br> _(Medabrot)_ |
 
 ---
 
-## Vocabulary
+## General Vocabulary
 
 ### Greetings & Essentials
 
@@ -36,7 +39,7 @@ series = ["Language Study"]
 | **לַיְלָה טוֹב** | Laila Tov       | Phrase              | Good night              |
 | **סְלִיחָה**     | Slicha          | Noun                | Excuse me / Sorry       |
 
-### Nouns & Objects
+### Everyday Nouns
 
 | Hebrew     | Transliteration | Gender             | English        |
 | :--------- | :-------------- | :----------------- | :------------- |
@@ -48,7 +51,7 @@ series = ["Language Study"]
 
 ---
 
-## Learning Resources
+## Recommended Learning Resources
 
-- [Pealim - Hebrew Verb Conjugation Tables](https://www.pealim.com/)
+- [Pealim - Hebrew Verb Conjugations](https://www.pealim.com/)
 - [Academy of the Hebrew Language](https://hebrew-academy.org.il/)
