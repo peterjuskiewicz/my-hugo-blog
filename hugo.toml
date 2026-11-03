@@ -22,7 +22,7 @@ noClasses = false
 unsafe = true
 
 [params]
-author = "Jaggielonian University Jewish Studies"
+author = "Jagiellonian University Jewish Studies"
 # license = '<a rel="license" href="http://creativecommons.org/licenses/by-sa/4.0/">CC BY-SA-4.0</a>'
 description = "UJ Jewish Studies"
 keywords = "hebrew"
